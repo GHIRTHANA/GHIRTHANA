@@ -1,10 +1,10 @@
 Hi I'm Ghirthana V👋
 
-🎓 B.Tech Artificial Intelligence & Data Science Student at Karpagam Academy of Higher Education, Coimbatore
-🌱 Currently learning Deep Learning, Data Structures & Algorithms (Java), Odoo ERP, and Computer Vision
-👯 Looking to collaborate on AI, Data Science, Python, and Open Source projects
-🤔 Looking for opportunities to improve my problem-solving and software development skills
-⚡ Fun fact: I enjoy turning real-world problems into AI-powered solutions.
+🎓 B.Tech Artificial Intelligence & Data Science Student at Karpagam Academy of Higher Education, Coimbatore<br>
+🌱 Currently learning Deep Learning, Data Structures & Algorithms (Java), Odoo ERP, and Computer Vision<br>
+👯 Looking to collaborate on AI, Data Science, Python, and Open Source projects<br>
+🤔 Looking for opportunities to improve my problem-solving and software development skills<br>
+⚡ Fun fact: I enjoy turning real-world problems into AI-powered solutions.<br>
 
 
 # 💻 Tech Stack:
